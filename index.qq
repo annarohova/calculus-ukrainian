@@ -1,23 +1,13 @@
 \meta
-    \title Математический анализ
-    \subtitle Записки лекций
+    \title Математичний аналіз
+    \subtitle Лекції
     \author
-        Илья Щуров
+        Ілля Щуров. Переклад: Анна Рогова. Редакція: Катерина Коломієць.  
     \link
-        Задачи и видео
-        \role course
-        \url http://math-info.hse.ru/s21/3    
-    \link
-        Исходный код
+        Джерело
         \role source
-        \url https://github.com/ischurov/calculus-notes
-    \link
-        Telegram-канал
-        \url https://t.me/calculuswithoutcats
-    \link
-        О проекте
-        \url http://mathbook.info/
-    \lang ru
+        \url https://github.com/annarohova/calculus
+    \lang ua
     \preamble
         \newcommand{\ph}{\varphi}
         \newcommand{\eps}{\varepsilon}
