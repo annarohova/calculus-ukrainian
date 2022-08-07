@@ -7,7 +7,7 @@
         Джерело
         \role source
         \url https://github.com/annarohova/calculus
-    \lang ua
+    \lang uk
     \preamble
         \newcommand{\ph}{\varphi}
         \newcommand{\eps}{\varepsilon}
